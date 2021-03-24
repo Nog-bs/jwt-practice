@@ -1,7 +1,10 @@
-# Awesome Project Build with TypeORM
+# JWT Authentication Practice App
 
-Steps to run this project:
+Summary: Following a 3 hour tutorial regarding JSON Web Token and implementing the following technologies:
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+-   TypeScript
+-   GraphQL
+-   TypeGraphQL
+-   TypeORM
+-   PostgreSQL
+-   React
